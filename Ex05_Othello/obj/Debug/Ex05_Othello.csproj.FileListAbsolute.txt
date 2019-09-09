@@ -1,0 +1,9 @@
+C:\Users\איציק\source\repos\B19 Ex05 itsikHarari 201016151 zahiPinhas 204185490\Ex05_Othello\bin\Debug\Ex05_Othello.exe
+C:\Users\איציק\source\repos\B19 Ex05 itsikHarari 201016151 zahiPinhas 204185490\Ex05_Othello\bin\Debug\Ex05_Othello.pdb
+C:\Users\איציק\source\repos\B19 Ex05 itsikHarari 201016151 zahiPinhas 204185490\Ex05_Othello\obj\Debug\Ex05_Othello.csprojAssemblyReference.cache
+C:\Users\איציק\source\repos\B19 Ex05 itsikHarari 201016151 zahiPinhas 204185490\Ex05_Othello\obj\Debug\Ex02_Othelo.FormSetting.resources
+C:\Users\איציק\source\repos\B19 Ex05 itsikHarari 201016151 zahiPinhas 204185490\Ex05_Othello\obj\Debug\Ex02_Othelo.OthelloGameForm.resources
+C:\Users\איציק\source\repos\B19 Ex05 itsikHarari 201016151 zahiPinhas 204185490\Ex05_Othello\obj\Debug\Ex05_Othello.csproj.GenerateResource.cache
+C:\Users\איציק\source\repos\B19 Ex05 itsikHarari 201016151 zahiPinhas 204185490\Ex05_Othello\obj\Debug\Ex05_Othello.csproj.CoreCompileInputs.cache
+C:\Users\איציק\source\repos\B19 Ex05 itsikHarari 201016151 zahiPinhas 204185490\Ex05_Othello\obj\Debug\Ex05_Othello.exe
+C:\Users\איציק\source\repos\B19 Ex05 itsikHarari 201016151 zahiPinhas 204185490\Ex05_Othello\obj\Debug\Ex05_Othello.pdb
